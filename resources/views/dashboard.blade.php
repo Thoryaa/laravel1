@@ -13,7 +13,7 @@
     <meta name="msapplication-tap-highlight" content="no">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
 
-    <link href="css/main.css" rel="stylesheet">
+    <link href="../css/main.css" rel="../stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 
@@ -101,7 +101,7 @@
                             <h5 class="card-title">Ruqaiah Saif</h5>
 
                             <div class="card-body">
-                                <img src="images/r.jpg" class="card-img-top rounded-pill" alt="...">
+                                <img src="../images/r.jpg" class="card-img-top rounded-pill" alt="...">
                                 <p class="card-text "><i class="bi bi-camera p-2"></i><small class="text-muted">change
                                         picture</small></p>
                             </div>
@@ -635,7 +635,7 @@
                 </div>
             </div>
         </div>
-        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="../js/bootstrap.bundle.min.js"></script>
 
         <script>
             function menu() {
